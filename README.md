@@ -12,7 +12,7 @@ This is a simple React application that displays a list of reviews. It uses Tail
 
 ## Live Demo
 
-You can see the live demo of this application at [https://review-job-task.netlify.app](https://review-job-task.netlify.app).
+You can see the live demo of this application at [https://review-job-task-ts.netlify.app](https://review-job-task-ts.netlify.app).
 
 ## Screenshots
 
